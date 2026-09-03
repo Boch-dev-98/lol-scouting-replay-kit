@@ -1,4 +1,4 @@
-# 🗺️ LoL Scouting Replays Kit
+# 🗺️ LoL Scouting Replay Kit
 
 > Replay League of Legends scrim data on an interactive minimap — built for scouting opponent tendencies in the early game.
 
